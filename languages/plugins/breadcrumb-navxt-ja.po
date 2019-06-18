@@ -1,0 +1,878 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/breadcrumb-navxt\n"
+"POT-Creation-Date: 2013-05-26 00:27:44+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kojiam Toshiyasu <kjm@dogwood.skr.jp>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: breadcrumb_navxt_admin.php:36
+msgid ""
+"Your PHP version is too old, please upgrade to a newer version. Your version "
+"is %1$s, Breadcrumb NavXT requires %2$s"
+msgstr ""
+"お使いのPHPは古すぎます。もっと新しいバージョンにアップグレードしてください。お使いのバージョンは、%1$s、"
+"Breadcrumb NavXTには%2$sが必要です。"
+
+#: breadcrumb_navxt_admin.php:213
+msgid "Insufficient privileges to proceed."
+msgstr "続けるのに必要な権限がありません。"
+
+#: breadcrumb_navxt_admin.php:329
+msgid "Tips for the settings are located below select options."
+msgstr "設定のヒントは下にあります。オプションを選択してください。"
+
+#: breadcrumb_navxt_admin.php:330
+msgid "Resources"
+msgstr "リソース"
+
+#: breadcrumb_navxt_admin.php:331
+msgid ""
+"%sTutorials and How Tos%s: There are several guides, tutorials, and how tos "
+"available on the author's website."
+msgstr ""
+"%sチュートリアルとハウツー%s: 作者のウェブサイトには使い方ガイド、チュートリアル、ハウツーが複数あります。"
+
+#: breadcrumb_navxt_admin.php:331
+msgid "Go to the Breadcrumb NavXT tag archive."
+msgstr "Breadcumb NavXTのタグ・アーカイブに行く。"
+
+#: breadcrumb_navxt_admin.php:332
+msgid ""
+"%sOnline Documentation%s: Check out the documentation for more indepth "
+"technical information."
+msgstr ""
+"%sオンライン・ドキュメント%s: もっと詳しい技術情報のためのドキュメントをチェックしましょう。"
+
+#: breadcrumb_navxt_admin.php:332
+msgid "Go to the Breadcrumb NavXT online documentation"
+msgstr "Breadcrumb NavXTのオンライン・ドキュメントを見る。"
+
+#: breadcrumb_navxt_admin.php:333
+msgid ""
+"%sReport a Bug%s: If you think you have found a bug, please include your "
+"WordPress version and details on how to reproduce the bug."
+msgstr ""
+"%sバグレポート%s: バグを見つけたら、あなたのWordPressのバージョンとバグを再現する方法の詳細を"
+"含めてください。"
+
+#: breadcrumb_navxt_admin.php:333
+msgid "Go to the Breadcrumb NavXT support post for your version."
+msgstr "このバージョン用のBreadcrumb NavXTサポート・フォーラムへ行く。"
+
+#: breadcrumb_navxt_admin.php:334
+msgid "Giving Back"
+msgstr "返す"
+
+#: breadcrumb_navxt_admin.php:335
+msgid ""
+"%sDonate%s: Love Breadcrumb NavXT and want to help development? Consider "
+"buying the author a beer."
+msgstr ""
+"%s寄付%s: Breadcrumb NavXTが気に入って、開発を援助したいですか? 作者にビールを奢りましょう。"
+
+#: breadcrumb_navxt_admin.php:335
+msgid "Go to PayPal to give a donation to Breadcrumb NavXT."
+msgstr "PayPalでBreadcrumb NavXTへの寄付をする。"
+
+#: breadcrumb_navxt_admin.php:336
+msgid ""
+"%sTranslate%s: Is your language not available? Contact John Havlik to get "
+"translating."
+msgstr ""
+"%s翻訳%s: あなたの言語がありませんか? John Havlikにコンタクトを取って、翻訳を入手してください。"
+
+#: breadcrumb_navxt_admin.php:336
+msgid "Go to the Breadcrumb NavXT translation project."
+msgstr "Breadcrumb NavXTの翻訳プロジェクトへ行く。"
+
+#: breadcrumb_navxt_admin.php:341 breadcrumb_navxt_admin.php:432
+#: breadcrumb_navxt_admin.php:433
+msgid "General"
+msgstr "一般"
+
+#: breadcrumb_navxt_admin.php:344
+msgid ""
+"For the settings on this page to take effect, you must either use the "
+"included Breadcrumb NavXT widget, or place either of the code sections below "
+"into your theme."
+msgstr ""
+"このページの設定を有効にするためには、Breadcrumb NavXTウィジェットを有効にするか、お使いのテーマに"
+"下のコードを書き加えてください。"
+
+#: breadcrumb_navxt_admin.php:345
+msgid "Breadcrumb trail with separators"
+msgstr "パンくずを区切り文字で区切る"
+
+#: breadcrumb_navxt_admin.php:351
+msgid "Breadcrumb trail in list form"
+msgstr "パンくずをリスト形式にする"
+
+#: breadcrumb_navxt_admin.php:360
+msgid "Quick Start"
+msgstr "お手軽設定"
+
+#: breadcrumb_navxt_admin.php:363
+msgid ""
+"Using the code from the Quick Start section above, the following CSS can be "
+"used as base for styling your breadcrumb trail."
+msgstr ""
+"上の「お手軽設定」のコードを使う場合、パンくずの基本スタイルとして次のCSSを使うことができます。"
+
+#: breadcrumb_navxt_admin.php:375
+msgid "Styling"
+msgstr "スタイル"
+
+#: breadcrumb_navxt_admin.php:381
+msgid "Import/Export/Reset"
+msgstr "インポート/エクスポート/リセット"
+
+#: breadcrumb_navxt_admin.php:405 includes/mtekk_adminkit.php:786
+msgid "Import"
+msgstr "インポート"
+
+#: breadcrumb_navxt_admin.php:406 includes/mtekk_adminkit.php:787
+msgid "Export"
+msgstr "エクスポート"
+
+#: breadcrumb_navxt_admin.php:407 includes/mtekk_adminkit.php:788
+msgid "Reset"
+msgstr "リセット"
+
+#: breadcrumb_navxt_admin.php:420
+msgid "Breadcrumb NavXT Settings"
+msgstr "Breadcrumb NavXT設定"
+
+#: breadcrumb_navxt_admin.php:432
+msgid ""
+"A collection of settings most likely to be modified are located under this "
+"tab."
+msgstr ""
+"よく変更される設定がこのタブの下にあります。"
+
+#: breadcrumb_navxt_admin.php:436
+msgid "Breadcrumb Separator"
+msgstr "パンくず区切り文字"
+
+#: breadcrumb_navxt_admin.php:436
+msgid "Placed in between each breadcrumb."
+msgstr "上の文字がパンくずの間に入ります。"
+
+#: breadcrumb_navxt_admin.php:440
+msgid "Title Length"
+msgstr "タイトルの長さ"
+
+#: breadcrumb_navxt_admin.php:445
+msgid "Limit the length of the breadcrumb title."
+msgstr "パンくずのタイトルを次の文字数に制限します。"
+
+#: breadcrumb_navxt_admin.php:450
+msgid "Max Title Length: "
+msgstr "タイトル上限文字数: "
+
+#: breadcrumb_navxt_admin.php:461
+msgid "Current Item"
+msgstr "現在のページを示す項目"
+
+#: breadcrumb_navxt_admin.php:464
+msgid "Link Current Item"
+msgstr "現在のページを示す項目にリンクを張る"
+
+#: breadcrumb_navxt_admin.php:464
+msgid "Yes"
+msgstr "はい"
+
+#: breadcrumb_navxt_admin.php:465
+msgid "Paged Breadcrumb"
+msgstr "ページ分割パンくず"
+
+#: breadcrumb_navxt_admin.php:465
+msgid "Include the paged breadcrumb in the breadcrumb trail."
+msgstr "分割ページパンくずを含める。"
+
+#: breadcrumb_navxt_admin.php:465
+msgid ""
+"Indicates that the user is on a page other than the first on paginated posts/"
+"pages."
+msgstr ""
+"ページ分割された投稿やページで、2ページ目以降をパンくずで示します。"
+
+#: breadcrumb_navxt_admin.php:466
+msgid "Paged Template"
+msgstr "分割ページのテンプレート"
+
+#: breadcrumb_navxt_admin.php:466
+msgid "The template for paged breadcrumbs."
+msgstr "分割ページパンくずのためのテンプレートです。"
+
+#: breadcrumb_navxt_admin.php:470 breadcrumb_navxt_admin.php:473
+msgid "Home Breadcrumb"
+msgstr "ホームを示すパンくず"
+
+#: breadcrumb_navxt_admin.php:473
+msgid "Place the home breadcrumb in the trail."
+msgstr "パンくずにホームページを含める。"
+
+#: breadcrumb_navxt_admin.php:474
+msgid "Home Template"
+msgstr "ホームページ用テンプレート"
+
+#: breadcrumb_navxt_admin.php:474
+msgid "The template for the home breadcrumb."
+msgstr "ホームを示すパンくず用テンプレートです。"
+
+#: breadcrumb_navxt_admin.php:475
+msgid "Home Template (Unlinked)"
+msgstr "ホームページ用テンプレート(リンクなし)"
+
+#: breadcrumb_navxt_admin.php:475
+msgid ""
+"The template for the home breadcrumb, used when the breadcrumb is not linked."
+msgstr ""
+"リンクなしのホームページ用パンくずテンプレートです。"
+
+#: breadcrumb_navxt_admin.php:479 breadcrumb_navxt_admin.php:482
+msgid "Blog Breadcrumb"
+msgstr "ブログ用パンくず"
+
+#: breadcrumb_navxt_admin.php:482
+msgid "Place the blog breadcrumb in the trail."
+msgstr "ブログのパンくずをパンくずリストに含めます。"
+
+#: breadcrumb_navxt_admin.php:483
+msgid "Blog Template"
+msgstr "ブログ用テンプレート"
+
+#: breadcrumb_navxt_admin.php:483
+msgid ""
+"The template for the blog breadcrumb, used only in static front page "
+"environments."
+msgstr ""
+"ブログのパンくず用テンプレート。ブログを固定ページにしたときだけ使われます。"
+
+#: breadcrumb_navxt_admin.php:484
+msgid "Blog Template (Unlinked)"
+msgstr "ブログ用テンプレート(リンクなし)"
+
+#: breadcrumb_navxt_admin.php:484
+msgid ""
+"The template for the blog breadcrumb, used only in static front page "
+"environments and when the breadcrumb is not linked."
+msgstr ""
+"ブログのパンくずリスト用のテンプレートです。固定ページをブログに使い、リンクなしにするテンプレートです。"
+
+#: breadcrumb_navxt_admin.php:488
+msgid "Mainsite Breadcrumb"
+msgstr "メインサイトのパンくず"
+
+#: breadcrumb_navxt_admin.php:491
+msgid "Main Site Breadcrumb"
+msgstr "メインサイトのパンくず"
+
+#: breadcrumb_navxt_admin.php:491
+msgid "Place the main site home breadcrumb in the trail in an multisite setup."
+msgstr "マルチサイトで運用するとき、パンくずにメインサイトのホームを含めます。"
+
+#: breadcrumb_navxt_admin.php:492
+msgid "Main Site Home Template"
+msgstr "メインサイトのホーム用テンプレート"
+
+#: breadcrumb_navxt_admin.php:492
+msgid ""
+"The template for the main site home breadcrumb, used only in multisite "
+"environments."
+msgstr ""
+"メインサイトのホームに使うパンくず用のテンプレート。マルチサイトの環境で動作します。"
+
+#: breadcrumb_navxt_admin.php:493
+msgid "Main Site Home Template (Unlinked)"
+msgstr "メインサイトのホーム用テンプレート(リンクなし)"
+
+#: breadcrumb_navxt_admin.php:493
+msgid ""
+"The template for the main site home breadcrumb, used only in multisite "
+"environments and when the breadcrumb is not linked."
+msgstr ""
+"メインサイトのホーム用テンプレート。マルチサイト環境でリンクなしの場合。"
+
+#: breadcrumb_navxt_admin.php:500
+msgid ""
+"The settings for all post types (Posts, Pages, and Custom Post Types) are "
+"located under this tab."
+msgstr ""
+"このタブの下には全ての投稿タイプ(投稿、ページ、カスタム投稿タイプ)の設定があります。"
+
+#: breadcrumb_navxt_admin.php:500
+msgid "Post Types"
+msgstr "投稿タイプ"
+
+#: breadcrumb_navxt_admin.php:501
+msgid "Posts"
+msgstr "投稿"
+
+#: breadcrumb_navxt_admin.php:504
+msgid "Post Template"
+msgstr "投稿テンプレート"
+
+#: breadcrumb_navxt_admin.php:504
+msgid "The template for post breadcrumbs."
+msgstr "投稿パンくずのテンプレートです。"
+
+#: breadcrumb_navxt_admin.php:505
+msgid "Post Template (Unlinked)"
+msgstr "投稿のテンプレート(リンクなし)"
+
+#: breadcrumb_navxt_admin.php:505
+msgid ""
+"The template for post breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+"投稿パンくずのテンプレートです。リンクなしの場合だけ使われます。"
+
+#: breadcrumb_navxt_admin.php:506
+msgid "Post Hierarchy Display"
+msgstr "投稿階層を表示する"
+
+#: breadcrumb_navxt_admin.php:506
+msgid "Show the taxonomy leading to a post in the breadcrumb trail."
+msgstr "パンくずの投稿にタクソノミーを付け加えます。"
+
+#: breadcrumb_navxt_admin.php:510
+msgid "Post Hierarchy"
+msgstr "投稿階層"
+
+#: breadcrumb_navxt_admin.php:514 breadcrumb_navxt_admin.php:626
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: breadcrumb_navxt_admin.php:515
+msgid "Dates"
+msgstr "日付"
+
+#: breadcrumb_navxt_admin.php:516 breadcrumb_navxt_admin.php:633
+msgid "Tags"
+msgstr "タグ"
+
+#: breadcrumb_navxt_admin.php:518 breadcrumb_navxt_admin.php:587
+msgid "Post Parent"
+msgstr "親投稿"
+
+#: breadcrumb_navxt_admin.php:534 breadcrumb_navxt_admin.php:611
+msgid ""
+"The hierarchy which the breadcrumb trail will show. Note that the \"Post "
+"Parent\" option may require an additional plugin to behave as expected since "
+"this is a non-hierarchical post type."
+msgstr ""
+"パンくずが表示する階層です。\"親投稿\"オプションは階層構造のないタイプなので、、期待どおり動かすためには"
+"追加のプラグインが必要です。"
+
+#: breadcrumb_navxt_admin.php:538
+msgid "Pages"
+msgstr "ページ"
+
+#: breadcrumb_navxt_admin.php:541
+msgid "Page Template"
+msgstr "ページ用テンプレート"
+
+#: breadcrumb_navxt_admin.php:541
+msgid "The template for page breadcrumbs."
+msgstr "ページパンくず用のテンプレートです。"
+
+#: breadcrumb_navxt_admin.php:542
+msgid "Page Template (Unlinked)"
+msgstr "ページ用テンプレート(リンクなし)"
+
+#: breadcrumb_navxt_admin.php:542
+msgid ""
+"The template for page breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+"ページパンくず用のテンプレートです。パンくずがリンクになっていない場合だけ使われます。"
+
+#: breadcrumb_navxt_admin.php:543
+msgid "Attachment Template"
+msgstr "添付ファイル用テンプレート"
+
+#: breadcrumb_navxt_admin.php:543
+msgid "The template for attachment breadcrumbs."
+msgstr "添付ファイルパンくず用のテンプレート"
+
+#: breadcrumb_navxt_admin.php:544
+msgid "Attachment Template (Unlinked)"
+msgstr "添付ファイル用テンプレート(リンクなし)"
+
+#: breadcrumb_navxt_admin.php:544
+msgid ""
+"The template for attachment breadcrumbs, used only when the breadcrumb is "
+"not linked."
+msgstr ""
+"添付ファイルパンくず用のテンプレートです。パンくずがリンクになっていない場合だけ使われます。"
+
+#: breadcrumb_navxt_admin.php:564 breadcrumb_navxt_admin.php:664
+msgid "%s Template"
+msgstr "%s用テンプレート"
+
+#: breadcrumb_navxt_admin.php:564 breadcrumb_navxt_admin.php:664
+msgid "The template for %s breadcrumbs."
+msgstr "%sパンくず用のテンプレートです。"
+
+#: breadcrumb_navxt_admin.php:565 breadcrumb_navxt_admin.php:665
+msgid "%s Template (Unlinked)"
+msgstr "%s用テンプレート(リンクなし)"
+
+#: breadcrumb_navxt_admin.php:565 breadcrumb_navxt_admin.php:665
+msgid ""
+"The template for %s breadcrumbs, used only when the breadcrumb is not linked."
+msgstr ""
+"%sパンくず用テンプレートです。パンくずがリンクになっていない場合だけ使われます。"
+
+#: breadcrumb_navxt_admin.php:570
+msgid "%s Root Page"
+msgstr "%sルートページ"
+
+#: breadcrumb_navxt_admin.php:573
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; 選択 &mdash;"
+
+#: breadcrumb_navxt_admin.php:577
+msgid "%s Archive Display"
+msgstr "%sアーカイブ表示"
+
+#: breadcrumb_navxt_admin.php:577
+msgid ""
+"Show the breadcrumb for the %s post type archives in the breadcrumb trail."
+msgstr ""
+"パンくずリストに、%sポストタイプのアーカイブのパンくずを表示しましす。"
+
+#: breadcrumb_navxt_admin.php:578
+msgid "%s Hierarchy Display"
+msgstr "%s階層表示"
+
+#: breadcrumb_navxt_admin.php:578
+msgid "Show the taxonomy leading to a %s in the breadcrumb trail."
+msgstr "パンくずリストに、%sへのタクソノミーを表示します。"
+
+#: breadcrumb_navxt_admin.php:582
+msgid "%s Hierarchy"
+msgstr "%s階層"
+
+#: breadcrumb_navxt_admin.php:607
+msgid "The hierarchy which the breadcrumb trail will show."
+msgstr "パンくずリストが表示する階層です。"
+
+#: breadcrumb_navxt_admin.php:625
+msgid ""
+"The settings for all taxonomies (including Categories, Tags, and custom "
+"taxonomies) are located under this tab."
+msgstr ""
+"カテゴリー、タグ、カスタムタクソノミーなどの設定はこのタブをクリックしてください。"
+
+#: breadcrumb_navxt_admin.php:625
+msgid "Taxonomies"
+msgstr "タクソノミー"
+
+#: breadcrumb_navxt_admin.php:629
+msgid "Category Template"
+msgstr "カテゴリー用テンプレート"
+
+#: breadcrumb_navxt_admin.php:629
+msgid "The template for category breadcrumbs."
+msgstr "カテゴリーパンくず用のテンプレートです。"
+
+#: breadcrumb_navxt_admin.php:630
+msgid "Category Template (Unlinked)"
+msgstr "カテゴリー用テンプレート(リンクなし)"
+
+#: breadcrumb_navxt_admin.php:630
+msgid ""
+"The template for category breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+"カテゴリーのパンくず用テンプレート。パンくずがリンクになっていないときにだけ使われます。"
+
+#: breadcrumb_navxt_admin.php:636
+msgid "Tag Template"
+msgstr "タグ用テンプレート"
+
+#: breadcrumb_navxt_admin.php:636
+msgid "The template for tag breadcrumbs."
+msgstr "タグのパンくず用テンプレートです。"
+
+#: breadcrumb_navxt_admin.php:637
+msgid "Tag Template (Unlinked)"
+msgstr "タグ用テンプレート(リンクなし)"
+
+#: breadcrumb_navxt_admin.php:637
+msgid ""
+"The template for tag breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+"タグのパンくず用テンプレート。パンくずがリンクになっていないときだけ使われます。"
+
+#: breadcrumb_navxt_admin.php:640
+msgid "Post Formats"
+msgstr "投稿フォーマット"
+
+#: breadcrumb_navxt_admin.php:643
+msgid "Post Format Template"
+msgstr "投稿フォーマットのテンプレート"
+
+#: breadcrumb_navxt_admin.php:643
+msgid "The template for post format breadcrumbs."
+msgstr "投稿フォーマットのパンくず用テンプレートです。"
+
+#: breadcrumb_navxt_admin.php:644
+msgid "Post Format Template (Unlinked)"
+msgstr "投稿フォーマットのテンプレート(リンクなし)"
+
+#: breadcrumb_navxt_admin.php:644
+msgid ""
+"The template for post_format breadcrumbs, used only when the breadcrumb is "
+"not linked."
+msgstr ""
+"投稿フォーマットのパンくず用テンプレート。パンくずがリンクになっていないときだけ使われます。"
+
+#: breadcrumb_navxt_admin.php:674
+msgid ""
+"The settings for author and date archives, searches, and 404 pages are "
+"located under this tab."
+msgstr ""
+"投稿者、日付アーカイブ、404ページの設定は、このタブをクリックしてください。"
+
+#: breadcrumb_navxt_admin.php:674 breadcrumb_navxt_admin.php:683
+msgid "Miscellaneous"
+msgstr "その他"
+
+#: breadcrumb_navxt_admin.php:675
+msgid "Author Archives"
+msgstr "投稿者アーカイブ"
+
+#: breadcrumb_navxt_admin.php:678
+msgid "Author Template"
+msgstr "投稿者テンプレート"
+
+#: breadcrumb_navxt_admin.php:678
+msgid "The template for author breadcrumbs."
+msgstr "投稿者パンくずのテンプレートです。"
+
+#: breadcrumb_navxt_admin.php:679
+msgid "Author Template (Unlinked)"
+msgstr "投稿者テンプレート(リンクなし)"
+
+#: breadcrumb_navxt_admin.php:679
+msgid ""
+"The template for author breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+"投稿者パンくずのテンプレートです。パンくずがリンクになっていないときだけ使われます。"
+
+#: breadcrumb_navxt_admin.php:680
+msgid "Author Display Format"
+msgstr "投稿者表示フォーマット"
+
+#: breadcrumb_navxt_admin.php:680
+msgid ""
+"display_name uses the name specified in \"Display name publicly as\" under "
+"the user profile the others correspond to options in the user profile."
+msgstr ""
+"display_nameは、ユーザプロフィールの\"ブログ上の表示名\"で指定されたものを使います。"
+"他はユーザプロフィールの設定に従います。"
+
+#: breadcrumb_navxt_admin.php:686
+msgid "Date Template"
+msgstr "日付テンプレート"
+
+#: breadcrumb_navxt_admin.php:686
+msgid "The template for date breadcrumbs."
+msgstr "日付パンくず用のテンプレートです。"
+
+#: breadcrumb_navxt_admin.php:687
+msgid "Date Template (Unlinked)"
+msgstr "日付テンプレート(リンクなし)"
+
+#: breadcrumb_navxt_admin.php:687
+msgid ""
+"The template for date breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+"日付パンくずのテンプレートです。パンくずがリンクになっていないときだけ使われます。"
+
+#: breadcrumb_navxt_admin.php:688
+msgid "Search Template"
+msgstr "検索テンプレート"
+
+#: breadcrumb_navxt_admin.php:688
+msgid ""
+"The anchor template for search breadcrumbs, used only when the search "
+"results span several pages."
+msgstr ""
+"検索パンくずのアンカー用テンプレートです。検索結果が複数ページに渡るときにだけ使われます。"
+
+#: breadcrumb_navxt_admin.php:689
+msgid "Search Template (Unlinked)"
+msgstr "検索テンプレート(リンクなし)"
+
+#: breadcrumb_navxt_admin.php:689
+msgid ""
+"The anchor template for search breadcrumbs, used only when the search "
+"results span several pages and the breadcrumb is not linked."
+msgstr ""
+"検索パンくずのアンカー用テンプレート。検索結果が複数ページに渡り、リンクになっていないときだけ使われます。"
+
+#: breadcrumb_navxt_admin.php:690
+msgid "404 Title"
+msgstr "404タイトル"
+
+#: breadcrumb_navxt_admin.php:691
+msgid "404 Template"
+msgstr "404テンプレート"
+
+#: breadcrumb_navxt_admin.php:691
+msgid "The template for 404 breadcrumbs."
+msgstr "404パンくずのテンプレートです。"
+
+#: breadcrumb_navxt_admin.php:697
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: breadcrumb_navxt_admin.php:742
+msgid "<a title=\"Go to %title%.\" href=\"%link%\">%htitle%</a>"
+msgstr "<a title=\"%title%へ行く\" href=\"%link%\">%htitle%</a>"
+
+#: breadcrumb_navxt_admin.php:743 breadcrumb_navxt_class.php:63
+msgid "%htitle%"
+msgstr ""
+
+#: breadcrumb_navxt_class.php:67 breadcrumb_navxt_class.php:239
+#: breadcrumb_navxt_class.php:245 breadcrumb_navxt_class.php:251
+#: breadcrumb_navxt_class.php:265 breadcrumb_navxt_class.php:277
+#: breadcrumb_navxt_class.php:289
+msgid ""
+"<a title=\"Go to %title%.\" href=\"%link%\" class=\"%type%\">%htitle%</a>"
+msgstr ""
+"<a title=\"%title%へ行く\" href=\"%link%\" class=\"%type%\">%htitle%</a>"
+
+#: breadcrumb_navxt_class.php:272
+msgid "Page %htitle%"
+msgstr "ページ%htitle%"
+
+#: breadcrumb_navxt_class.php:296
+msgid "404"
+msgstr "404"
+
+#: breadcrumb_navxt_class.php:299
+msgid ""
+"Search results for &#39;<a title=\"Go to the first page of search results "
+"for %title%.\" href=\"%link%\" class=\"%type%\">%htitle%</a>&#39;"
+msgstr ""
+"&#39;<a title=\"%title%の検索結果の最初のページに行く\" href=\"%link%\" class=\"%type%\">"
+"%htitle%</a>&#39;の検索結果"
+
+#: breadcrumb_navxt_class.php:301
+msgid "Search results for &#39;%htitle%&#39;"
+msgstr "&#39;%htitle%&#39;の検索結果"
+
+#: breadcrumb_navxt_class.php:304 breadcrumb_navxt_class.php:309
+msgid ""
+"<a title=\"Go to the %title% tag archives.\" href=\"%link%\" class=\"%type%"
+"\">%htitle%</a>"
+msgstr ""
+"<a title=\"%title%のタグアーカイブへ行く\" href=\"%link%\" class=\"%type%"
+"\">%htitle%</a>"
+
+#: breadcrumb_navxt_class.php:314
+msgid ""
+"Articles by: <a title=\"Go to the first page of posts by %title%.\" href="
+"\"%link%\" class=\"%type%\">%htitle%</a>"
+msgstr ""
+"投稿者: <a title=\"%title%による投稿の最初のページへ行く\" href="
+"\"%link%\" class=\"%type%\">%htitle%</a>"
+
+#: breadcrumb_navxt_class.php:316
+msgid "Articles by: %htitle%"
+msgstr "%htitle%の記事"
+
+#: breadcrumb_navxt_class.php:321
+msgid ""
+"<a title=\"Go to the %title% category archives.\" href=\"%link%\" class="
+"\"%type%\">%htitle%</a>"
+msgstr ""
+"<a title=\"%title%のカテゴリアーカイブへ行く\" href=\"%link%\" class=\"%type%\">%htitle%</a>"
+
+#: breadcrumb_navxt_class.php:325
+msgid ""
+"<a title=\"Go to the %title% archives.\" href=\"%link%\" class=\"%type%\">"
+"%htitle%</a>"
+msgstr ""
+"<a title=\"%title%アーカイブへ行く\" href=\"%link%\" class=\"%type%\">%htitle%</a>"
+
+#: breadcrumb_navxt_widget.php:33
+msgid "Adds a breadcrumb trail to your sidebar"
+msgstr "サイドバーにパンくずリストを追加します"
+
+#: breadcrumb_navxt_widget.php:92
+msgid "Title:"
+msgstr "タイトル:"
+
+#: breadcrumb_navxt_widget.php:96
+msgid "Text to show before the trail:"
+msgstr "パンくずの前につけるテキスト:"
+
+#: breadcrumb_navxt_widget.php:100
+msgid "Output trail as:"
+msgstr "パンくずの表示方法:"
+
+#: breadcrumb_navxt_widget.php:102
+msgid "List"
+msgstr "リスト"
+
+#: breadcrumb_navxt_widget.php:103
+msgid "Schema.org"
+msgstr "Schema.org"
+
+#: breadcrumb_navxt_widget.php:104
+msgid "Plain"
+msgstr "プレーンテキスト"
+
+#: breadcrumb_navxt_widget.php:109
+msgid "Link the breadcrumbs"
+msgstr "パンくずをリンクにする"
+
+#: breadcrumb_navxt_widget.php:111
+msgid "Reverse the order of the trail"
+msgstr "リストの順序を逆にする"
+
+#: breadcrumb_navxt_widget.php:113
+msgid "Hide the trail on the front page"
+msgstr "トップページではリストを表示しない"
+
+#: includes/mtekk_adminkit.php:211
+msgid "Settings"
+msgstr "設定"
+
+#: includes/mtekk_adminkit.php:281
+msgid "Your settings are out of date."
+msgstr "あなたの設定はもうサポートされていません。"
+
+#: includes/mtekk_adminkit.php:281 includes/mtekk_adminkit.php:290
+msgid "Migrate the settings now."
+msgstr "すぐに設定を移行します。"
+
+#: includes/mtekk_adminkit.php:281 includes/mtekk_adminkit.php:290
+msgid "Migrate now."
+msgstr "すぐに移行する。"
+
+#: includes/mtekk_adminkit.php:290
+msgid "Your settings are for a newer version."
+msgstr "あなたの設定は新しいバージョンに合っています。"
+
+#: includes/mtekk_adminkit.php:298
+msgid "Your plugin install is incomplete."
+msgstr "プラグインのインストールが終わっていません。"
+
+#: includes/mtekk_adminkit.php:298
+msgid "Load default settings now."
+msgstr "すぐにデフォルトの設定を読み込みます。"
+
+#: includes/mtekk_adminkit.php:298
+msgid "Complete now."
+msgstr "終了しました。"
+
+#: includes/mtekk_adminkit.php:306
+msgid "Your plugin settings are invalid."
+msgstr "プラグインの設定が正しくありません。"
+
+#: includes/mtekk_adminkit.php:306
+msgid "Attempt to fix settings now."
+msgstr "すぐに設定を直します。"
+
+#: includes/mtekk_adminkit.php:306
+msgid "Fix now."
+msgstr "すぐに直します。"
+
+#: includes/mtekk_adminkit.php:484
+msgid "Settings successfully saved."
+msgstr "設定を保存しました。"
+
+#: includes/mtekk_adminkit.php:484 includes/mtekk_adminkit.php:489
+msgid "Undo the options save."
+msgstr "設定の保存を取り消します。"
+
+#: includes/mtekk_adminkit.php:484 includes/mtekk_adminkit.php:489
+#: includes/mtekk_adminkit.php:594 includes/mtekk_adminkit.php:618
+#: includes/mtekk_adminkit.php:635
+msgid "Undo"
+msgstr "取り消し"
+
+#: includes/mtekk_adminkit.php:489
+msgid "Some settings were not saved."
+msgstr "保存されていない設定があります。"
+
+#: includes/mtekk_adminkit.php:490
+msgid "The following settings were not saved:"
+msgstr "次の設定は保存されませんでした。"
+
+#: includes/mtekk_adminkit.php:495
+msgid "Please include this message in your %sbug report%s."
+msgstr "%sバグ報告%sにこのメッセージを含めてください。"
+
+#: includes/mtekk_adminkit.php:495
+msgid "Go to the %s support post for your version."
+msgstr "このバージョンの%sサポートに投稿をしに行きます。"
+
+#: includes/mtekk_adminkit.php:594
+msgid "Settings successfully imported from the uploaded file."
+msgstr "アップロードしたファイルから設定をインポートしました。"
+
+#: includes/mtekk_adminkit.php:594
+msgid "Undo the options import."
+msgstr "設定のインポートを中止します。"
+
+#: includes/mtekk_adminkit.php:599
+msgid "Importing settings from file failed."
+msgstr "ファイルからの設定インポートが失敗しました。"
+
+#: includes/mtekk_adminkit.php:618
+msgid "Settings successfully reset to the default values."
+msgstr "設定をデフォルトに戻しました。"
+
+#: includes/mtekk_adminkit.php:618
+msgid "Undo the options reset."
+msgstr "設定のリセットを取り消します。"
+
+#: includes/mtekk_adminkit.php:635
+msgid "Settings successfully undid the last operation."
+msgstr "直前の操作を取り消しました。"
+
+#: includes/mtekk_adminkit.php:635
+msgid "Undo the last undo operation."
+msgstr "直前の取り消しをキャンセルします。"
+
+#: includes/mtekk_adminkit.php:670
+msgid "Settings successfully migrated."
+msgstr "設定を移行しました。"
+
+#: includes/mtekk_adminkit.php:677
+msgid "Default settings successfully installed."
+msgstr "デフォルトの設定をインストールしました。"
+
+#: includes/mtekk_adminkit.php:778
+msgid ""
+"Import settings from a XML file, export the current settings to a XML file, "
+"or reset to the default settings."
+msgstr ""
+"XMLファイルから設定をインポートしたり、現在の設定をXMLファイルにエクスポートしたり、デフォルトの設定に戻したりします。"
+
+#: includes/mtekk_adminkit.php:781
+msgid "Settings File"
+msgstr "設定ファイル"
+
+#: includes/mtekk_adminkit.php:784
+msgid "Select a XML settings file to upload and import settings from."
+msgstr "アップロードおよびインポートするXML設定ファイルを選択してください。"
