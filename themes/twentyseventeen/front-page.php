@@ -29,6 +29,8 @@ get_header(); ?>
 		endif;
 		?>
 
+		<?php get_template_part('archive' , 'info' ); ?>
+
 		<?php
 		// Get each of our panels and show the post data.
 		if ( 0 !== twentyseventeen_panel_count() || is_customize_preview() ) : // If we have pages to show.
@@ -54,6 +56,6 @@ get_header(); ?>
 		<?php echo do_shortcode( '[contact-form-7 id="1234" title="Contact form 1"]' ); ?>
 	</main><!-- #main -->
 </div><!-- #primary -->
-
+<?php get_template_part( 'archive' , 'info' ); ?>
 <?php
 get_footer();

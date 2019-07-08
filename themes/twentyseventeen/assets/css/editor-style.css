@@ -580,3 +580,43 @@ object {
 .rtl .mejs-offscreen {
 	right: -10000px;
 }
+
+
+/*////////////////////////////////////*/
+/*///////////  contact form//////////*/
+/*////////////////////////////////////*/
+
+.form-container{
+  align-items:center;
+
+}
+.contact-title{
+text-align: center;
+color: gray;
+margin-top:100px;
+
+}
+.contact-title >h1 {
+font-size:20px;
+}
+.contact-title >h2 {
+font-size:15px;
+}
+
+
+.contact-row{
+  justify-content: center;
+  margin-top:30px;
+}
+
+.contact-form{
+
+  margin:50px auto 300px auto;
+
+}
+
+
+.text-center > button{
+  background-color: black;
+  color:white;
+}

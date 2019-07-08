@@ -9,6 +9,8 @@
  */
 
 ?>
+
+
 <div class="site-info">
 	<?php
 	if ( function_exists( 'the_privacy_policy_link' ) ) {

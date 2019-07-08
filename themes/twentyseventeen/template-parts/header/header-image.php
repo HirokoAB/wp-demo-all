@@ -9,6 +9,13 @@
  */
 
 ?>
+<script type="text/javascript">
+document.addEventListener( 'wpcf7mailsent', function( event ) {
+	console.log('testcocococo');
+    location = 'http://localhost/wordpress_sample/thankyou';
+}, false );
+</script>
+
 <div class="custom-header">
 
 		<div class="custom-header-media">

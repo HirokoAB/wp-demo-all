@@ -662,3 +662,65 @@ require get_parent_theme_file_path( '/inc/customizer.php' );
  * SVG icons functions and filters.
  */
 require get_parent_theme_file_path( '/inc/icon-functions.php' );
+
+
+function cptui_register_my_cpts_infomation() {
+
+	/**
+	 * Post Type: お知らせ.
+	 */
+
+	$labels = array(
+		"name" => __( "お知らせ", "custom-post-type-ui" ),
+		"singular_name" => __( "お知らせ", "custom-post-type-ui" ),
+		"menu_name" => __( "お知らせ", "custom-post-type-ui" ),
+		"all_items" => __( "お知らせ一覧", "custom-post-type-ui" ),
+		"add_new" => __( "新規お知らせの作成", "custom-post-type-ui" ),
+		"add_new_item" => __( "お知らせを新規追加", "custom-post-type-ui" ),
+		"edit_item" => __( "お知らせの内容", "custom-post-type-ui" ),
+	);
+
+	$args = array(
+		"label" => __( "お知らせ", "custom-post-type-ui" ),
+		"labels" => $labels,
+		"description" => "お知らせ一覧の為の投稿タイプ",
+		"public" => true,
+		"publicly_queryable" => true,
+		"show_ui" => true,
+		"delete_with_user" => false,
+		"show_in_rest" => true,
+		"rest_base" => "",
+		"rest_controller_class" => "WP_REST_Posts_Controller",
+		"has_archive" => "info_archive",
+		"show_in_menu" => true,
+		"show_in_nav_menus" => true,
+		"exclude_from_search" => false,
+		"capability_type" => "post",
+		"map_meta_cap" => true,
+		"hierarchical" => true,
+		"rewrite" => array( "slug" => "info", "with_front" => true ),
+		"query_var" => true,
+		"supports" => array( "title", "editor", "thumbnail" ),
+	);
+
+	register_post_type( "infomation", $args );
+}
+ add_action( 'init', 'cptui_register_my_cpts_infomation' );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
